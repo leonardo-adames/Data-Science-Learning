@@ -28,20 +28,22 @@ Este repositorio documenta mi proceso de aprendizaje de bases de datos, enfocán
 
 Cada carpeta representa un nivel de aprendizaje, desde la teoría hasta la aplicación práctica.
 
-## 🧾 Temario Principal
+## 🧾 ¿QUÉ APRENDERÁS EN ESTE CURSO?
 
 **Temas incluidos en este repositorio:**
 
 ```plain text
-📌 Fundamentos de Bases de Datos
+📌 Introducción A Los Datos
 
-📌 Diseño y Modelado de Bses De datos Relacionales y no relacionales
+📌 Fundamentos De Bases Datos
 
-📌 Modélo entidad-Relación
+📌 Metodologia De Diseño y Modelado De Bses De Datos
 
-📌 Modelo Relacional
+📌 Modélo entidad-Relación + Ejercicios 
 
-📌 Normalización y diseño de esquemas
+📌 Modelo Relacional + Ejercicios
+
+📌 Normalización y diseño de esquemas + Ejercicios
 
 📌 Ejercicios aplicados y retos clasificatorios
 
